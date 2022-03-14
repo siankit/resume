@@ -39,6 +39,6 @@ Skills
 - Excellent technical decision making, and the ability to effectively communicate highly technical concepts to a variety of audiences
 - Ability to gain trust of engineering team and facilitate meaningful professional growth through strong leadership
 
-**Programming languages**, TypeScript, JavaScript, HTML5, CSS, PHP, Java, Git, AWS Services, SQL and NoSQL DBs, some understanding of bigdata technology stacks (spark, flink, etc.)
+**Programming languages**: TypeScript, JavaScript, HTML5, CSS, PHP, Java, Git, AWS Services, SQL and NoSQL DBs, some understanding of bigdata technology stacks (spark, flink, etc.)
 
-**Patent**, Method and apparatus for providing activity-based map job
+**Patent**: Method and apparatus for providing activity-based map job
