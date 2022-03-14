@@ -1,17 +1,16 @@
 Sian Kit Tjie
 ======
 
-####  
-###### [ siankit@gmail.com ] . [ +49 176 177 56 252 ]
+###### [ Richard-Breitenfeld-Str. 74, 60438 Frankfurt am Main ] . [ siankit@gmail.com ] . [ +49 176 177 56 252 ]
 
 Summary
 ---------
-Seasoned technology and people leader with a proven track record of managing geographic distributed engineering teams in development, maintenance and support of critical software systems and applications. Excel in collaboration and partnering with peers across organization in delivering product as a team. Excel in reaching out to people, working out strategies together and develooping positive relationships. 
+Seasoned technology and people leader with a proven track record of managing geographic distributed engineering teams in development, maintenance and support of critical software systems and applications. Strong in collaboration and partnering with peers across organization in delivering product as a team. Excel in reaching out to people, working out strategies together and develooping positive relationships. 
 
 Work experience
 ---------
 **Sr. Engineering Manager, HERE Technologies** (2011-present)
-- Lead a team of 30 developers from end-to-end development of a customer/consumer application (https://mapcreator.here.com), including the associated mobile applications (Android and iOS), ainternal mapping tools for HERE Internal mapping operators and a full end-to-end feedback service for automotive customers. 
+- Lead a team of 30 developers from end-to-end development of customer/consumer application (https://mapcreator.here.com), including the associated mobile applications (Android and iOS), a mapping tools for HERE Internal mapping operators (2000+ users) and a full end-to-end feedback service for automotive customers. 
 - Collaborate with product management, other engineering unit, technical customer team, and various stakeholders on road map planning, feature deployment, adaptation strategy, go to market and translation of customer requirements into product features
 - Architect, plan and execute the community strategy to engage users with Map Creator (Online map editing tools)
 - Technology stack: Typescript, JavaScript, React, nodejs, Java, PostgreSQL, Big Data technology stack, AWS services (lambda, cloudformation, ec2, fargate,...)
@@ -35,5 +34,10 @@ Work experience
 
 Skills
 ------
-**Programming:** JavaScript, Java, PHP, HTML5, CSS, git, AWS Services
+- Past experience in designing and building highly reliable, highly scalable, and performant services
+- Engineering operations experience within a 24x7 environment with complex, multi-tiered, highly scalable services and web applications
+- Excellent technical decision making, and the ability to effectively communicate highly technical concepts to a variety of audiences
+- Ability to gain trust of engineering team and facilitate meaningful professional growth through strong leadership
+
+**Programming languages**, TypeScript, JavaScript, HTML5, CSS, PHP, Java, Git, AWS Services, SQL and NoSQL DBs, some understanding of bigdata technology stacks (spark, flink, etc.)
 **Patent**, Method and apparatus for providing activity-based map job
