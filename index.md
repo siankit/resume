@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+Sian Kit Tjie
+======
 
-You can use the [editor on GitHub](https://github.com/siankit/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+####  
+###### [ siankit@gmail.com ] . [ +49 176 177 56 252 ]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Summary
+---------
+Seasoned technology and people leader with a proven track record of managing geographic distributed engineering teams in development, maintenance and support of critical software systems and applications. Excel in collaboration and partnering with peers across organization in delivering product as a team. Excel in reaching out to people, working out strategies together and develooping positive relationships. 
 
-### Markdown
+Work experience
+---------
+**Sr. Engineering Manager, HERE Technologies** (2011-present)
+- Lead a team of 30 developers from end-to-end development of a customer/consumer application (https://mapcreator.here.com), including the associated mobile applications (Android and iOS), ainternal mapping tools for HERE Internal mapping operators and a full end-to-end feedback service for automotive customers. 
+- Collaborate with product management, other engineering unit, technical customer team, and various stakeholders on road map planning, feature deployment, adaptation strategy, go to market and translation of customer requirements into product features
+- Architect, plan and execute the community strategy to engage users with Map Creator (Online map editing tools)
+- Technology stack: Typescript, JavaScript, React, nodejs, Java, PostgreSQL, Big Data technology stack, AWS services (lambda, cloudformation, ec2, fargate,...)
+- Manages overall software development lifecycle. Provides leadership and ownership for process improvements
+- Develops staff through coaching providing performance feedback and establishing performance and development plans
+- Manage, hire, and mentor strong developers working to create an environment of curiosity, encouragement, and technical growth
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Engineering Manager, Map applications - NAVTEQ** (2007-2011)
+- Manage the implementation and development of several web applications with a team of 10 engineers and UI/UX designer
+- Technology stack: HTML5, CSS, JavaScript, PHP, Java Servlet/Tomcat and Jboss, MongoDB, Oracle DB, SQL & PL/SQL, Apache webserver 
+- Perform competitive benchmarking, work with product management to position competitive advantages and develop startegies to close any gaps
+- Create work plans, cost estimates for work in own area of responsibility and report any risk/opportunity to management
+- Work with product management team to design and develop new products/improve existing products
 
-```markdown
-Syntax highlighted code block
+**Head of Ad Technology, Mapsolute GmbH** (2002-2007)
+- Responsible for the development and maintenance of high traffic web applications with different types of advertisements (skyscraper, banner overlays) from diverse ads provider
+- Developed mapping and route planning specific ads, eg. displaying hotels ads in destination routes with most beneficial factors for company
+- Developed a multi-tenant store finder application with self-serve capability (businessMap24 Easy)
+- Technology stack: HTML5, CSS, JavaScript, PHP, Oracle DB, SQL & PL/SQL, Apache webserver 
+- Perform project management responsibilities and lead the design and integration of the mapping/location based applications
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/siankit/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Skills
+------
+**Programming:** JavaScript, Java, PHP, HTML5, CSS, git, AWS Services
+**Patent**, Method and apparatus for providing activity-based map job
