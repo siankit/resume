@@ -43,5 +43,5 @@ Skills
 
 Education
 ------
-**Fachhochschule Frankfurt am Main**, Diplom Betriebswirt [Business Administration, Management and Operations] 
+**Fachhochschule Frankfurt am Main**, Diplom Betriebswirt [Business Administration, Management and Operations]
 **Patent**: Method and apparatus for providing activity-based map job
