@@ -41,4 +41,7 @@ Skills
 
 **Programming languages**: TypeScript, JavaScript, HTML5, CSS, PHP, Java, Git, AWS Services, SQL and NoSQL DBs, some understanding of bigdata technology stacks (spark, flink, etc.)
 
+Education
+------
+**Fachhochschule Frankfurt am Main**, Diplom Betriebswirt [Business Administration, Management and Operations] 
 **Patent**: Method and apparatus for providing activity-based map job
