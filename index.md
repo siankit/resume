@@ -25,7 +25,7 @@ Work experience
 - Work with product management team to design and develop new products/improve existing products
 - Technology stack: HTML5, CSS, JavaScript, PHP, Java Servlet/Tomcat and Jboss, MongoDB, Oracle DB, SQL & PL/SQL, Apache webserver 
 
-**Head of Ad Technology, Mapsolute GmbH** (2002-2007)
+**Head of Ad Technology, Mapsolute GmbH** (1998-2007)
 - Responsible for the development and maintenance of high traffic web applications with different types of advertisements (skyscraper, banner overlays) from diverse ads provider
 - Developed mapping and route planning specific ads, eg. displaying hotels ads in destination routes with most beneficial factors for company
 - Developed a multi-tenant store finder application with self-serve capability (businessMap24 Easy)
