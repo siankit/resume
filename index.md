@@ -9,7 +9,7 @@ Seasoned technology and people leader with a proven track record of managing geo
 
 Work experience
 ---------
-**Sr. Engineering Manager, HERE Technologies** (2011-present)
+**Sr. Engineering Manager, HERE Technologies** (2014-present)
 - Lead a team of 30 developers from end-to-end development of customer/consumer application (https://mapcreator.here.com), including the associated mobile applications (Android and iOS), a mapping tool for HERE Internal mapping operators (2000+ users), and a full end-to-end feedback service for automotive customers
 - Collaborate with product management, other engineering unit, technical customer team, and various stakeholders on road map planning, feature deployment, adaptation strategy, go to market and translation of customer requirements into product features
 - Architect, plan and execute the community strategy to engage users with Map Creator (Online map editing tools)
@@ -18,7 +18,7 @@ Work experience
 - Manage, hire, and mentor strong developers working to create an environment of curiosity, encouragement, and technical growth
 - Technology stack: Typescript, JavaScript, React, nodejs, Java, PostgreSQL, Big Data technology stack, AWS services (lambda, cloudformation, ec2, fargate,...)
 
-**Engineering Manager, Map applications - NAVTEQ** (2007-2011)
+**Engineering Manager, Map applications - NAVTEQ** (2007-2014)
 - Manage the implementation and development of several web applications with a team of 10 engineers and UI/UX designer
 - Perform competitive benchmarking, work with product management to position competitive advantages and develop startegies to close any gaps
 - Create work plans, cost estimates for work in own area of responsibility and report any risk/opportunity to management
