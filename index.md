@@ -5,12 +5,12 @@ Sian Kit Tjie
 
 Summary
 ---------
-Seasoned technology and people leader with a proven track record of managing geographic distributed engineering teams in the development, maintenance, and support of critical software systems and applications. Strong in collaboration and partnering with peers across organizations in delivering products as a team. Excel in reaching out to people, working out strategies together and developing positive relationships. 
+Seasoned technology and people leader with a proven track record of managing geographic distributed managers and engineering teams in the development, maintenance, and support of critical software systems and applications. Strong in collaboration and partnering with peers across organizations in delivering products as a team. Excel in reaching out to people, working out strategies together and developing positive relationships. 
 
 Work experience
 ---------
 **Sr. Engineering Manager, HERE Technologies** (2014-present)
-- Lead a team of 30 developers from end-to-end development of customer/consumer application (https://mapcreator.here.com), including the associated mobile applications (Android and iOS), a mapping tool for HERE Internal mapping operators (2000+ users), and a full end-to-end feedback service for automotive customers
+- Lead a team of managers and 30+ developers from end-to-end development of customer/consumer application (https://mapcreator.here.com), including the associated mobile applications (Android and iOS), a mapping tool for HERE Internal mapping operators (2000+ users), and a full end-to-end feedback service for automotive customers
 - Collaborate with product management, other engineering unit, technical customer team, and various stakeholders on road map planning, feature deployment, adaptation strategy, go to market and translation of customer requirements into product features
 - Architect, plan and execute the community strategy to engage users with Map Creator (Online map editing tools)
 - Manages overall software development lifecycle. Provides leadership and ownership for process improvements
