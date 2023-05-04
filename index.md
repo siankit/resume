@@ -1,4 +1,4 @@
-Sian Kit Tjie
+Sian Kit Tjie (https://www.linkedin.com/in/25121973-sian-kit-tjie/)
 ======
 
 ###### [ Richard-Breitenfeld-Str. 74, 60438 Frankfurt am Main ] . [ siankit@gmail.com ] . [ +49 176 177 56 252 ]
