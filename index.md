@@ -1,7 +1,7 @@
 Sian Kit Tjie 
 ======
 
-###### [ Richard-Breitenfeld-Str. 74, 60438 Frankfurt am Main ] . [ siankit@gmail.com ] . [ +49 176 177 56 252 ]
+###### [ Richard-Breitenfeld-Str. 74, 60438 Frankfurt am Main ] . [ siankit@gmail.com ] . [https://www.linkedin.com/in/25121973-sian-kit-tjie/] . [ +49 176 177 56 252 ]
 
 Summary
 ---------
@@ -53,4 +53,4 @@ Education
 
 **Patent**: Method and apparatus for providing activity-based map job
 
-https://www.linkedin.com/in/25121973-sian-kit-tjie/
+
